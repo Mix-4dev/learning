@@ -4,3 +4,5 @@ class AppError{
 };
 
 class APIFeatures{}
+
+module.exports = APIFeatures;

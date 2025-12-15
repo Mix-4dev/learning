@@ -2,3 +2,5 @@
 class AppError{
 
 };
+
+class APIFeatures{}
